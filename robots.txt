@@ -1,0 +1,9 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /404.html
+
+Sitemap: https://getlivesupport.github.io/hpprinterguide/sitemap.xml
+
+Host: getlivesupport.github.io
