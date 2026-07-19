@@ -1,0 +1,9 @@
+{
+  "name": "HP Printer Guide UK",
+  "short_name": "HP Printer",
+  "start_url": "/hpprinterguide/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C89A3D",
+  "icons": []
+}
