@@ -176,23 +176,6 @@ hpprinterguide/
 
 ---
 
-## Lighthouse Goals
-
-Performance
-
-95+
-
-Accessibility
-
-95+
-
-Best Practices
-
-100
-
-SEO
-
-100
 
 ---
 
